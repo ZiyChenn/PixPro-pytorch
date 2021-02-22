@@ -12,8 +12,8 @@ detectron 0.3
 
 **Run**(8 V100 GPUs)  
 ```python
-python3 main.py --lr 4.0 --batch-size 1024 --epochs 100 --world-size 1 --rank 0 --dist-url tcp://127.0.0.1:12345 \
---multiprocessing-distributed /path/to/dataset
+python3 main.py --lr 4.0 --batch-size 1024 --epochs 100 --world-size 1 --rank 0 \
+--dist-url tcp://127.0.0.1:12345 --multiprocessing-distributed /path/to/dataset
 ```
 
 
