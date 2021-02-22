@@ -1,6 +1,6 @@
 ## Pixpro: Transferring to Detection
 
-Everything in this detection directory is borrowed from [Facebook's MoCo implementation](https://github.com/facebookresearch/moco/tree/master/detection).
+Everything in this detection directory is borrowed from [Facebook's MoCo implementation](https://github.com/facebookresearch/moco/tree/master/detection) and [detectron2](https://github.com/facebookresearch/detectron2).
 
 
 
