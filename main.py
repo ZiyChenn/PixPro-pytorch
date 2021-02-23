@@ -74,7 +74,7 @@ parser.add_argument('--weight-decay',
                     default=1e-5,
                     type=float,
                     metavar='W',
-                    help='weight decay (default: 1e-4)',
+                    help='weight decay (default: 1e-5)',
                     dest='weight_decay')
 parser.add_argument('--print-freq',
                     default=10,
